@@ -2,6 +2,7 @@ package testTread.Synchronize;
 
 //关于线程上锁与未上锁的方法的问题
 //m1/m2方法均上锁
+//---------------由于两边都进行了线程锁，因此两个输出结果互不干涉
 
 public class TestEx3 implements Runnable {
     public int num = 100;
@@ -36,6 +37,6 @@ public class TestEx3 implements Runnable {
         Thread t = new Thread(te);
 
         t.start();
-        te.m2();    //由于m2重新定义了num，因此打印结果双方均为2000
+        te.m2();    //由于两边都进行了线程锁，因此两个输出结果互不干涉
     }
 }

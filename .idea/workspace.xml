@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d7cab82-c469-4b00-a25f-2bc77bee6dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestDeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/Runner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Runner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/Runner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Runner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/Synchronize/TestSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/TestPrority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestPrority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/TestTread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestTread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/TestTread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestTread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestSleep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestThread4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestThread4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestYeild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestYeild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,6 +284,7 @@
       <workItem from="1604232038670" duration="5158000" />
       <workItem from="1604323707311" duration="2004000" />
       <workItem from="1604406911110" duration="4810000" />
+      <workItem from="1604412305283" duration="61000" />
     </task>
     <servers />
   </component>
@@ -393,13 +376,13 @@
     <state x="186" y="31" key="SettingsEditor/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600666820754" />
     <state x="218" y="31" key="SettingsEditor/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603433681611" />
     <state x="242" y="31" key="SettingsEditor/0.31.1280.689@0.31.1280.689" timestamp="1603716641137" />
-    <state x="325" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1604406911010">
+    <state x="325" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1604412304539">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600745765549" />
     <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692243143" />
     <state x="2245" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573279470" />
-    <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689@0.31.1280.689" timestamp="1604406911010" />
+    <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689@0.31.1280.689" timestamp="1604412304539" />
     <state x="412" y="77" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601127645920">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
