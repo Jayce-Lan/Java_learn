@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d7cab82-c469-4b00-a25f-2bc77bee6dee" name="Default Changelist" comment="" />
+    <list default="true" id="8d7cab82-c469-4b00-a25f-2bc77bee6dee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/Runner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Runner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/Runner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Runner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/Synchronize/TestSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/Synchronize/TestSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/TestPrority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestPrority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/TestTread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestTread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/TestTread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/TestTread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/MyThread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/MyThread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestThread4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestThread4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testTread/methods/TestYeild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testTread/methods/TestYeild.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +60,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\JavaProject\HelloWorld\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hcscnC9q6mLjeCddCZS2c5pTHa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,6 +81,7 @@
     <property name="DatabaseDriversLRU" value="cassandra&#10;mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -65,13 +98,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.TestObjectIO">
-    <configuration name="TestDataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestIO.TestDataStream" />
+  <component name="RunManager" selected="Application.TestEx3">
+    <configuration name="TestDeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTread.Synchronize.TestDeadLock" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestIO.*" />
+          <option name="PATTERN" value="testTread.Synchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObjectIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestIO.TestObjectIO" />
+    <configuration name="TestEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTread.Synchronize.TestEx1" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestIO.*" />
+          <option name="PATTERN" value="testTread.Synchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrinrtStream1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestIO.TestPrinrtStream1" />
+    <configuration name="TestEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTread.Synchronize.TestEx2" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestIO.*" />
+          <option name="PATTERN" value="testTread.Synchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrintStream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestIO.TestPrintStream2" />
+    <configuration name="TestEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTread.Synchronize.TestEx3" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestIO.*" />
+          <option name="PATTERN" value="testTread.Synchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrintStream3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestIO.TestPrintStream3" />
+    <configuration name="TestSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTread.Synchronize.TestSync" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestIO.*" />
+          <option name="PATTERN" value="testTread.Synchronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestObjectIO" />
-        <item itemvalue="Application.TestPrintStream3" />
-        <item itemvalue="Application.TestPrintStream2" />
-        <item itemvalue="Application.TestPrinrtStream1" />
-        <item itemvalue="Application.TestDataStream" />
+        <item itemvalue="Application.TestEx3" />
+        <item itemvalue="Application.TestEx2" />
+        <item itemvalue="Application.TestEx1" />
+        <item itemvalue="Application.TestDeadLock" />
+        <item itemvalue="Application.TestSync" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +296,12 @@
       <workItem from="1603715237889" duration="2847000" />
       <workItem from="1603804820205" duration="2275000" />
       <workItem from="1603972819695" duration="5632000" />
-      <workItem from="1604118120416" duration="1901000" />
+      <workItem from="1604118120416" duration="3348000" />
+      <workItem from="1604128713185" duration="5747000" />
+      <workItem from="1604214675673" duration="11000" />
+      <workItem from="1604232038670" duration="5158000" />
+      <workItem from="1604323707311" duration="2004000" />
+      <workItem from="1604406911110" duration="4810000" />
     </task>
     <servers />
   </component>
@@ -284,11 +322,11 @@
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="390" y="244" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.31.1280.689@0.31.1280.689" timestamp="1601696459941" />
-    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1603432222034">
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1604410677327">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603432222034" />
-    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1603029522239" />
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1604410677327" />
     <state x="397" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601300541514">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
@@ -301,34 +339,34 @@
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="453" y="288" key="Github.CreateGistDialog/0.31.1280.689@0.31.1280.689" timestamp="1604120030327" />
-    <state width="1237" height="144" key="GridCell.Tab.0.bottom" timestamp="1604119834980">
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom" timestamp="1604412153637">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state width="1237" height="144" key="GridCell.Tab.0.bottom/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600667871594" />
     <state width="973" height="245" key="GridCell.Tab.0.bottom/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692419917" />
     <state width="1237" height="310" key="GridCell.Tab.0.bottom/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573388858" />
-    <state width="1237" height="144" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1604119834980" />
-    <state width="1237" height="144" key="GridCell.Tab.0.center" timestamp="1604119834980">
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1604412153637" />
+    <state width="1237" height="156" key="GridCell.Tab.0.center" timestamp="1604412153637">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state width="1237" height="144" key="GridCell.Tab.0.center/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600667871594" />
     <state width="973" height="245" key="GridCell.Tab.0.center/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692419917" />
     <state width="1237" height="310" key="GridCell.Tab.0.center/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573388858" />
-    <state width="1237" height="144" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1604119834980" />
-    <state width="1237" height="144" key="GridCell.Tab.0.left" timestamp="1604119834980">
+    <state width="1237" height="156" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1604412153637" />
+    <state width="1237" height="156" key="GridCell.Tab.0.left" timestamp="1604412153636">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state width="1237" height="144" key="GridCell.Tab.0.left/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600667871594" />
     <state width="973" height="245" key="GridCell.Tab.0.left/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692419916" />
     <state width="1237" height="310" key="GridCell.Tab.0.left/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573388858" />
-    <state width="1237" height="144" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1604119834980" />
-    <state width="1237" height="144" key="GridCell.Tab.0.right" timestamp="1604119834980">
+    <state width="1237" height="156" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1604412153636" />
+    <state width="1237" height="156" key="GridCell.Tab.0.right" timestamp="1604412153637">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state width="1237" height="144" key="GridCell.Tab.0.right/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600667871594" />
     <state width="973" height="245" key="GridCell.Tab.0.right/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692419917" />
     <state width="1237" height="310" key="GridCell.Tab.0.right/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573388858" />
-    <state width="1237" height="144" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1604119834980" />
+    <state width="1237" height="156" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1604412153637" />
     <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1601308328021">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
@@ -355,13 +393,13 @@
     <state x="186" y="31" key="SettingsEditor/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600666820754" />
     <state x="218" y="31" key="SettingsEditor/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603433681611" />
     <state x="242" y="31" key="SettingsEditor/0.31.1280.689@0.31.1280.689" timestamp="1603716641137" />
-    <state x="325" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1604118119839">
+    <state x="325" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1604406911010">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.0.1280.689@0.31.1280.689" timestamp="1600745765549" />
     <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.31.1280.689@0.31.1280.689" timestamp="1603692243143" />
     <state x="2245" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689/1920.31.1280.689@1920.31.1280.689" timestamp="1602573279470" />
-    <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689@0.31.1280.689" timestamp="1604118119839" />
+    <state x="325" y="199" key="com.intellij.ide.util.TipDialog/0.31.1280.689@0.31.1280.689" timestamp="1604406911010" />
     <state x="412" y="77" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601127645920">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
