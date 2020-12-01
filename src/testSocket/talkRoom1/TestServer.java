@@ -1,6 +1,7 @@
-package testSocket.tallRoom1;
+package testSocket.talkRoom1;
 
 //服务器端
+//实现多个客户端与一个服务端连接
 
 import java.io.IOException;
 import java.net.ServerSocket;
